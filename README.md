@@ -115,7 +115,3 @@ http://localhost:5173 or Your Local URL
 
 ---
 
-## Known Bugs & Issues 🚨
-
-If you encounter any bugs or issues, feel free to reach out via email at [lakshman.gope2@gmail.com](mailto:lakshman.gope2@gmail.com). I welcome all feedback, suggestions, and questions!
-
