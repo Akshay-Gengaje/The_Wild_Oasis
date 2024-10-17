@@ -90,7 +90,7 @@ To get started with The Wild Oasis locally, follow these steps:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/lgope/the-wild-oasis.git
+git clone https://github.com/Akshay-Gengaje/the-wild-oasis.git
 ```
 
 2. **Install the required dependencies**:
